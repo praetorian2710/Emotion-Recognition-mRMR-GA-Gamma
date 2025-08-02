@@ -2,7 +2,7 @@
 
 This is the official implementation of the paper:
 
-**"EEG Emotion Classification using Genetic Algorithm-based Feature Selection and Gamma Function-based Dynamic Feature Fusion Presented at XXVIII International Conference on Soft Computing and Measurement (SCM'2025)"**
+**"EEG Emotion Classification using Genetic Algorithm-based Feature Selection and Gamma Function-based Dynamic Feature Fusion" presented at XXVIII International Conference on Soft Computing and Measurement (SCM'2025)**
 
 ## 🧠 Overall Workflow
 
