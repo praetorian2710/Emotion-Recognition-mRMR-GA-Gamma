@@ -41,6 +41,8 @@ The model demonstrates **state-of-the-art performance** with superior classifica
 - SEED Dataset
 - EEG Brainwave Dataset
 
+![Results](https://github.com/praetorian2710/Emotion-Recognition-mRMR-GA-Gamma/blob/main/assets/results.jpg)
+
 ---
 
 ## 🎯 Visualizations
