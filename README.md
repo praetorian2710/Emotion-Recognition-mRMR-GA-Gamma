@@ -45,7 +45,7 @@ The model demonstrates **state-of-the-art performance** with superior classifica
 
 ## 🎯 Visualizations
 
-![TSNE-Plot](https://github.com/praetorian2710/Emotion-Recognition-mRMR-GA-Gamma/assets/tsne.png)
+![TSNE-Plot](https://github.com/praetorian2710/Emotion-Recognition-mRMR-GA-Gamma/blob/main/assets/SEED-BW-tsne_GA.png)
 
 ---
 
