@@ -8,7 +8,7 @@ This is the official implementation of the paper:
 
 The proposed framework integrates **robust feature selection** with a **dual-branch deep learning model**, fusing the resulting features using a novel **Gamma function-based dynamic fusion mechanism** for highly accurate **EEG-based emotion recognition**.
 
-![architecture](https://github.com/praetorian2710/Emotion-Recognition-mRMR-GA-Gamma/assets/architechture.pdf)
+![architecture](https://github.com/praetorian2710/Emotion-Recognition-mRMR-GA-Gamma/blob/main/assets/architechture.pdf)
 ---
 
 ## 🔍 Feature Selection: `mRMR + Genetic Algorithm`
